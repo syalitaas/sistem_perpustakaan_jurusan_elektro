@@ -1,15 +1,6 @@
-# workshop-jepara #
-
-## Materi untuk workshop, tanggal **19-20 Maret 2016** ##
-
-----------
-#### Notulensi PHP JOGLO RAYA 9 maret 2016 ####
-Hasil dari diskusi untuk workshop, sebagai berikut :
-
 Kasus :
 -------
-> **SI Perpustakaan**, *mengapa?*
-> Dibanding ecommerce dan artikel lebih lengkap.
+> **SI Perpustakaan**
 > **(Mencapai Goals)**
 
 Goals :
@@ -170,8 +161,6 @@ Tabel database **`siperpus`** :
     <td>`double`</td>
   </tr>
 </table>
-
-### MATERI ###
 
 --------------
 
